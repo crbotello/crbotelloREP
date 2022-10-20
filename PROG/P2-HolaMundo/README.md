@@ -3,7 +3,7 @@ Un HolaMundo.java con su respectiva captura y la fuente de donde sacamos la prog
 # ¿Con qué lo vamos a hacer? 
 La fuente con Notepad++ y la práctica con GIT 
 # ¿Cómo se ha hecho? 
-Con Notepad++ y GIT  ![Captura](https://github.com/crbotello/PROG/blob/main/P2-HolaMundo/Captura%20HolaMundo.png)
+Con Notepad++ y GIT  ![Captura]((https://github.com/crbotello/PROG/blob/main/P2-HolaMundo/Captura%20Ho)
 # ¿Para qué se ha hecho? 
 Para aprender a implementar java en GIT 
 # ¿Dónde se ha hecho? 
